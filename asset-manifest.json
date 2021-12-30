@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.985582f7.css",
-    "main.js": "/static/js/main.c827c358.js",
-    "index.html": "/index.html",
-    "main.985582f7.css.map": "/static/css/main.985582f7.css.map",
-    "main.c827c358.js.map": "/static/js/main.c827c358.js.map"
+    "main.css": "https://SatanovsyiVitalii.github.io/task-management-frontend/static/css/main.985582f7.css",
+    "main.js": "https://SatanovsyiVitalii.github.io/task-management-frontend/static/js/main.d02ad686.js",
+    "index.html": "https://SatanovsyiVitalii.github.io/task-management-frontend/index.html",
+    "main.985582f7.css.map": "https://SatanovsyiVitalii.github.io/task-management-frontend/static/css/main.985582f7.css.map",
+    "main.d02ad686.js.map": "https://SatanovsyiVitalii.github.io/task-management-frontend/static/js/main.d02ad686.js.map"
   },
   "entrypoints": [
     "static/css/main.985582f7.css",
-    "static/js/main.c827c358.js"
+    "static/js/main.d02ad686.js"
   ]
 }
